@@ -7,3 +7,17 @@
 1. 对表达式树的代码进行编辑修改，使表达式树中的代码变成动态代码，根据不同的数据库修改树上的代码逻辑从而达到动态切换数据库查询语句的目的，用表达式树可以动态构建针对不同数据库的查询语句。
 
 2. 完成类似反射访问未知对象的属性，通过动态构造表达式树，生成委托。
+
+```C#
+///正常匿名函数版本
+Func<string int> myfunc;
+myfunc=delegate (string txt){ return txt.length;};
+///显式lamda
+myfunc=(string txt)=>{return txt.length;};//txt goes to txt.length
+///编译器能猜出类型，所以就隐式
+myfunc=(txt)=>txt.length;
+///最简单的一行表达
+Func<string int> myfunc=(txt)=>txt.length;
+///上面定义好，使用
+console.writeline(myfunc("hello world"));
+```
