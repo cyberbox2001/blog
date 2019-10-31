@@ -1,4 +1,4 @@
-
+[架构](https://v.youku.com/v_show/id_XMTUzNzU4ODc1Mg==.html?spm=a2h0k.11417342.soresults.dtitle&tdsourcetag=s_pctim_aiomsg&qq-pf-to=pcqq.group)
 # DDD驱动设计笔记
 
 ## 一. 概述
