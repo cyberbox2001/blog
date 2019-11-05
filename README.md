@@ -4,6 +4,9 @@
 
 3. [.net saga](https://www.cnblogs.com/hankuikui/p/9953214.html)
 
+- [ElasticSearch学习，可以更好的理解REST](https://www.cnblogs.com/cjsblog/p/9439331.html)
+   这个更可以理解在领域的事件类为，为什么分创建、更新、删除等，实际可以为REST提供天然的操作
+
 # DDD驱动设计笔记
 
 ## 一. 概述
