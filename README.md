@@ -1,5 +1,5 @@
 [论高可靠性系统中软件容错技术的应用](https://blog.csdn.net/feitianxuxue/article/details/78918768)
-
+[《软件架构评估》学习笔记](https://blog.csdn.net/moonsheep_liu/article/details/45306723)
 [.net saga](https://www.cnblogs.com/hankuikui/p/9953214.html)
 # DDD驱动设计笔记
 
