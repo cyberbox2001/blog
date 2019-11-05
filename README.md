@@ -1,4 +1,4 @@
-[架构](https://v.youku.com/v_show/id_XMTUzNzU4ODc1Mg==.html?spm=a2h0k.11417342.soresults.dtitle&tdsourcetag=s_pctim_aiomsg&qq-pf-to=pcqq.group)
+[论高可靠性系统中软件容错技术的应用](https://blog.csdn.net/feitianxuxue/article/details/78918768)
 
 [.net saga](https://www.cnblogs.com/hankuikui/p/9953214.html)
 # DDD驱动设计笔记
