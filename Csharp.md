@@ -21,3 +21,5 @@ Func<string int> myfunc=(txt)=>txt.length;
 ///上面定义好，使用
 console.writeline(myfunc("hello world"));
 ```
+
+## 泛型有两种形式： 泛型类型（包括类、接口、委托和结构——没有泛型枚举）和泛型方法
