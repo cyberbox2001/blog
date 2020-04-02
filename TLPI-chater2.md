@@ -5,6 +5,7 @@
 - More narrowly[ˈnæroʊli], to refer to the central software that manages and allocates computer resources (i.e., the CPU, RAM, and devices).
 
 ```
+fundamental 美[ˌfʌndəˈmentl]adj.	十分重大的; 根本的; 基础的; 基本的; 不能再分的;n.	基本规律; 根本法则; 基本原理; 基础;
 - e.g.=exempli gratia[ˈɡreɪʃə]；i.e.= id est 
 - Our goods compete[kəmˈpiːt] in terms of product quality, reliability[rɪˌlaɪə'bɪləti] and above all variety[vəˈraɪəti]
 - Red eyes denote[dɪˈnoʊt] strain[streɪn] and fatigue[fəˈtiːɡ]
