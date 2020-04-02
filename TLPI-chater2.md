@@ -23,6 +23,11 @@
 ####  Memory management: While computer memories are enormous[ɪˈnɔːrməs] by the standards of a decade[ˈdekeɪd] or two ago 
 
 ```
+presence	[ˈprezns] n.	在场; 出席; 存在; 出现; (派遣的) 一个队; (尤指执行任务的) 部队;
+denote	 [dɪˈnoʊt] v.	标志; 预示; 象征; 表示; 意指;
+Derivation[ˌderɪˈveɪʃn] n. 起源，由来，派生;
+concerned担心的; 忧虑的; 感兴趣的; 关切的; 关注的;[kənˈsɜːrnd] 
+
 , the size of software has also correspondingly grown, so that physical memory (RAM) remains a limited resource that the kernel must share among processes in an equitable[ˈekwɪtəbl] and efficient[ɪˈfɪʃnt] fashion. 
 Like most modern operating systems, Linux employs[ɪmˈplɔɪz] virtual memory management (Section 6.4), a technique that confers授予[kənˈfɜːrz] two main advantages[ədˈvæntɪdʒɪz]:
 ```
@@ -43,5 +48,42 @@ n.	可能性; 潜在性; 潜力; 潜质; 电位; 电势; 电压;
 aware	[əˈwer]
 adj.	知道; 意识到; 明白; 察觉到; 发觉; 发现; 对…有兴趣的; 有…意识的;
 
+halt [hɔːlt]
+v.	(使) 停止，停下;
+n.	停止; 阻止; 暂停; 小火车站(只有站台);
 ```
-#### 
+#### Process versus[ˈvɜːrsəs] kernel views of the system 
+
+
+```
+versus[ˈvɜːrsəs] prep.	(表示两队或双方对阵) 对，诉，对抗; (比较两种不同想法、选择等) 与…相对，与…相比;
+transparent  [trænsˈpærənt] adj.	透明的; 清澈的; 易识破的; 易看穿的; 显而易见的; 易懂的;
+facilitate  [fəˈsɪlɪteɪt] v.	促进; 促使; 使便利;
+facility	 [fəˈsɪləti] n.	设施; 设备; (机器等的) 特别装置; (服务等的) 特色; (供特定用途的) 场所; （学习、做事的） 天资，才能，天赋;
+obtain	 [əbˈteɪn] v.	(尤指经努力) 获得，赢得; 存在; 流行; 沿袭;
+further	 [ˈfɜːrðər]
+adv.	(空间距离) 较远，更远; (过去或未来) 较远，更久远; 进一步; 在更大程度上; 在更大范围内;
+adj.	更多的; 更进一步的; 附加的;
+v.	促进; 增进;
+integral	 [ˈɪntɪɡrəl]
+adj.	必需的; 不可或缺的; 作为组成部分的; 完整的; 完备的;
+n.	整体; 积分;
+
+```
+#### The shell
+```
+merely 美[ˈmɪrli] adv.	仅仅; 只不过;
+interactive [ˌɪntərˈæktɪv] adj.	合作的; 相互影响的; 互相配合的; 交互式的; 人机对话的; 互动的
+facility	 [fəˈsɪləti]
+n.	设施; 设备; (机器等的) 特别装置; (服务等的) 特色; (供特定用途的) 场所; （学习、做事的） 天资，才能，天赋;
+```
+#### 2.4 Single Directory Hierarchy, Directories, Links, and Files
+
+```
+hierarchy	 [ˈhaɪərɑːrki] n.	等级制度(尤指社会或组织); 统治集团; 层次体系;
+distinguish [dɪˈstɪŋɡwɪʃ] v.	区分; 辨别; 分清; 成为…的特征; 使具有…的特色; 使有别于; 看清; 认出; 听出;
+
+```
+
+
+```
